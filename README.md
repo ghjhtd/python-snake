@@ -10,11 +10,11 @@
 
 > 运行截图
 
-![1634107280724](C:\Users\13440\AppData\Roaming\Typora\typora-user-images\1634107280724.png)
+![](https://i.loli.net/2021/10/13/k1HJNWVwZT8u3Cl.png)
 
 ![](https://i.loli.net/2021/10/13/dQrj89nCcN2omJt.png)
 
-![1634107256656](C:\Users\13440\AppData\Roaming\Typora\typora-user-images\1634107256656.png)
+![](https://i.loli.net/2021/10/13/XSJELtqorIhaZpB.png)
 
 ```python
 import pygame
